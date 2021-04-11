@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "YeongWoo Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergraduate, Seoul National University\nnewline"
+  bio              : "Undergraduate, Seoul National University"
   location         : "Seoul, Korea"
   email            : "riagus99@snu.ac.kr"
   links:
