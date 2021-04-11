@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "riagus99@snu.ac.kr"
+      # url: "riagus99@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://blog.naver.com/pauluap"
