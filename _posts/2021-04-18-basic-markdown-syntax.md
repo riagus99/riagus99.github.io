@@ -2,9 +2,8 @@
 title:  "Basic markdown syntax"
 categories:
   - Blog
-tags:
-  - Blog
-last-modified-at:   2021-04-18T16:53:00-05:00
+last-modified-at:   2021-04-18T00:06:00-05:00
+# toc: true
 ---
 
 Referenced <https://www.markdownguide.org/basic-syntax/>

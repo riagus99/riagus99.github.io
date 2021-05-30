@@ -1,9 +1,7 @@
 ---
 title:  "Semiconductor Engineering"
 categories:
-  - Blog
-tags:
-  - Blog
+  - Semiconductor
 last-modified-at:   2021-05-30T00:06:00-05:00
 toc: true
 ---
