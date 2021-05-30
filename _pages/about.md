@@ -10,8 +10,6 @@ I'm an **electrical & computer engineering student** in Seoul National Universit
 
 I'm currently interested in *SoC, Edge computing, Neuromorphic computing*...
 
-I have interests in international situations.
-
 I have a strong desire to learn more. This blog will help me organize my study and projects.
 
 ## In this blog,
